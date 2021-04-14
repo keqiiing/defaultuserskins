@@ -1,4 +1,4 @@
-# defaultuser skins
+# _yukino skins
 
 Just going to post the skins I normally use here, I will update this later if I'm using other skins.
 - [My Twitch](https://www.twitch.tv/defaultuser__)
