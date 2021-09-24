@@ -1,14 +1,7 @@
-# _yukino skins
+# defaultuser(keqiiing) skins
 
 Just going to post the skins I normally use here, I will update this later if I'm using other skins.
 - [My Twitch](https://www.twitch.tv/defaultuser__)
-- [My Discord](https://discord.com/invite/quaRnCEZEd)
 
-# [Azerite v1.2](https://skins.osuck.net/index.php?newsid=2)
-![](https://skins.osuck.net/uploads/posts/2018-09/1537791350_c8kzhkg.jpg)
-
-# [Rafis 2018-3-26 HDDT](https://drive.google.com/file/d/1aJh7apqZTrXvWkwNVhzBfIVcG821hxx2/view)
-![](https://osuskins.net/screenshots/ekynLzX.jpg)
-
-# [Varvalian 2019-06-25](https://osuskins.net/skin/vjUqKOh)
-![](https://osuskins.net/screenshots/vjUqKOh.jpg)
+# [RafisRefreshed+defaultuser](https://drive.google.com/file/d/1xs1WrzG8aYeV6x_gOJIQOrQztM7oO_Lz/view?usp=sharing)
+![](https://cdn.discordapp.com/attachments/776914234205929494/890766199565213716/defaultuserrafis.png)
